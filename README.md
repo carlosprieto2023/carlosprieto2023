@@ -30,11 +30,11 @@ You can find more of my work on my [portfolio website](Link to Portfolio) or htt
 I'm proficient in:
 
 - 💻 Programming languages:
-- ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSSblue?logo=html5&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?logo=javascript&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-Expert-green?logo=python&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-Expert-green?logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-Proficient-orange?logo=mysql&logoColor=white)
+- ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-blue?logo=html5&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql&logoColor=white)
+
 
 
 - 🌐 Web technologies: Node.js, Express.js, Database Systems, RESTful APIs, Front-End Technologies, Web Hosting and Deployment
