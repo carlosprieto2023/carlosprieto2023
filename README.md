@@ -29,7 +29,8 @@ You can find more of my work on my [portfolio website](Link to Portfolio) or htt
 
 I'm proficient in:
 
-- 💻 Programming languages: ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Proficient-blue?logo=html5&logoColor=white)
+- 💻 Programming languages:
+- ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSSblue?logo=html5&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?logo=javascript&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-Expert-green?logo=python&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-Expert-green?logo=python&logoColor=white)
