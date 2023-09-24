@@ -1,6 +1,6 @@
 # CARLOS PRIETO
 
-[![GitHub Badge](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+[![GitHub Badge](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/carlosprieto2023)
 [![Twitter Badge](https://img.shields.io/twitter/follow/your-twitter?label=Follow&style=social)](https://twitter.com/your-twitter)
 [![LinkedIn Badge](https://img.shields.io/linkedin/follow/your-linkedin?label=Connect&style=social)](https://linkedin.com/in/your-linkedin)
 
