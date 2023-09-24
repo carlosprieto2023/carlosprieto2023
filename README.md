@@ -1,7 +1,7 @@
 # CARLOS PRIETO
 
 [![GitHub Badge](https://img.shields.io/github/followers/carlosprieto2023?label=Follow&style=social)](https://github.com/carlosprieto2023)
-https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcarlos-prieto0991%2F
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcarlos-prieto0991%2F)
 
 
 Welcome to my GitHub profile! I'm Carlos Prieto, a Full Stack Software Engineer based in Columbus, Ohio. I'm passionate about software development, and I love to create and collaborate on exciting projects.
