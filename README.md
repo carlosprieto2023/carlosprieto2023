@@ -37,7 +37,9 @@ I'm proficient in:
 
 
 
-- 🌐 Web technologies: Node.js, Express.js, Database Systems, RESTful APIs, Front-End Technologies, Web Hosting and Deployment
+- 🌐 Web technologies:
+- ![Technologies](https://img.shields.io/badge/Technologies-Node.js%20%7C%20Express.js%20%7C%20Database%20Systems%20%7C%20RESTful%20APIs%20%7C%20Front--End%20Technologies%20%7C%20Web%20Hosting%20%26%20Deployment-brightgreen)
+
 - 🛠️ Tools and frameworks: Git/GitHub, Development Text Editors/IDEs, Command Line Interface (CLI), Package Managers, Front-End Libraries and Frameworks, Back-End Frameworks, Database Management Tools, Web Development DevTools
 
 ## Let's Connect
