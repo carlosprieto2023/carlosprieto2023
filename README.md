@@ -30,16 +30,21 @@ You can find more of my work on my [portfolio website](Link to Portfolio) or htt
 I'm proficient in:
 
 - 💻 Programming languages:
-- ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-blue?logo=html5&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql&logoColor=white)
+ ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-blue?logo=html5&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white)
+ ![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql&logoColor=white)
 
 
 
 - 🌐 Web technologies:
 - ![Technologies]
-- ![Node.js](https://img.shields.io/badge/Node.js-brightgreen?logo=node.js&logoColor=white) - ![Express.js](https://img.shields.io/badge/Express.js-yellow?logo=express&logoColor=white) - ![Database Systems](https://img.shields.io/badge/Database%20Systems-blue?logo=mysql&logoColor=white) - ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-orange?logo=rest&logoColor=white) - ![Front-End Technologies](https://img.shields.io/badge/Front--End%20Technologies-lightblue) - ![Web Hosting and Deployment](https://img.shields.io/badge/Web%20Hosting%20%26%20Deployment-purple)
+  ![Node.js](https://img.shields.io/badge/Node.js-brightgreen?logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-yellow?logo=express&logoColor=white)
+  ![Database Systems](https://img.shields.io/badge/Database%20Systems-blue?logo=mysql&logoColor=white)
+  ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-orange?logo=rest&logoColor=white)
+  ![Front-End Technologies](https://img.shields.io/badge/Front--End%20Technologies-lightblue)
+  ![Web Hosting and Deployment](https://img.shields.io/badge/Web%20Hosting%20%26%20Deployment-purple)
 
 
 - 🛠️ Tools and frameworks: Git/GitHub, Development Text Editors/IDEs, Command Line Interface (CLI), Package Managers, Front-End Libraries and Frameworks, Back-End Frameworks, Database Management Tools, Web Development DevTools
