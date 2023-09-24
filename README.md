@@ -38,7 +38,9 @@ I'm proficient in:
 
 
 - 🌐 Web technologies:
-- ![Technologies](https://img.shields.io/badge/Technologies-Node.js%20%7C%20Express.js%20%7C%20Database%20Systems%20%7C%20RESTful%20APIs%20%7C%20Front--End%20Technologies%20%7C%20Web%20Hosting%20%26%20Deployment-brightgreen)
+- ![Technologies]
+- ![Node.js](https://img.shields.io/badge/Node.js-brightgreen?logo=node.js&logoColor=white) - ![Express.js](https://img.shields.io/badge/Express.js-yellow?logo=express&logoColor=white) - ![Database Systems](https://img.shields.io/badge/Database%20Systems-blue?logo=mysql&logoColor=white) - ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-orange?logo=rest&logoColor=white) - ![Front-End Technologies](https://img.shields.io/badge/Front--End%20Technologies-lightblue) - ![Web Hosting and Deployment](https://img.shields.io/badge/Web%20Hosting%20%26%20Deployment-purple)
+
 
 - 🛠️ Tools and frameworks: Git/GitHub, Development Text Editors/IDEs, Command Line Interface (CLI), Package Managers, Front-End Libraries and Frameworks, Back-End Frameworks, Database Management Tools, Web Development DevTools
 
