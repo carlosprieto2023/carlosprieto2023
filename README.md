@@ -25,7 +25,7 @@ You can find more of my work on my [portfolio website](Link to Portfolio) or htt
 
 ## My Tech Stack
 
-I'm proficient in:
+
 
 - 💻 Programming languages:
 - ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-blue?logo=html5&logoColor=white)
